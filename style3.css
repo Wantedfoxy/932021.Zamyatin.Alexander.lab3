@@ -75,7 +75,7 @@ footer
     overflow-wrap: break-word;
 }
 
-.left-menu > p:active
+.left-menu > p:hover
 {
     background-color: green;
 }
